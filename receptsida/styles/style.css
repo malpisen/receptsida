@@ -10,7 +10,7 @@ body {
     border: 1px solid #FCFCFC;
 }
 
-#imgtop {
+#banner {
     margin: 0 auto;
     width: 900px;
     height: 400px;
@@ -33,11 +33,11 @@ h1 {
     padding: 15px;
 }
 
-#ingr-head {
+.ingr-head {
     display: inline;
 }
 
-p#ingr-head {
+p.ingr-head {
     font-size: 22px;
     margin-left: 10px;
 }
@@ -47,12 +47,12 @@ ol {
     padding: 0 25px;
 }
 
-#imgbottom {
+#bottomimg {
     display: flex;
     justify-content: space-between;
 }
 
-#imgbottom img {
+#bottomimg img {
     object-fit: cover;
     width: 400px;
     height: 330px;
